@@ -1,0 +1,13 @@
+sudo: required
+services:
+  - docker
+language: python
+python:
+    - 3.4
+    - 3.5
+    - 3.6
+env:
+  - TOXENV=py-normal
+
+install: pip install tox
+script: tox
