@@ -4,6 +4,8 @@
 [![Python Versions](https://img.shields.io/pypi/pyversions/persistent-celery-beat-scheduler.svg)](https://pypi.python.org/pypi/persistent-celery-beat-scheduler)
 [![Build Status](https://travis-ci.org/richardasaurus/persistent-celery-beat-scheduler.png?branch=master)](https://travis-ci.org/richardasaurus/persistent-celery-beat-scheduler)
 
+![Logo](https://i.imgur.com/ychEU7k.png)
+
 Celery Beat Scheduler that stores the scheduled tasks and runtime data in Redis.
 
 ## Installation
